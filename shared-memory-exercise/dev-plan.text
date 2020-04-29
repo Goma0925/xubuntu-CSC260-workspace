@@ -1,4 +1,4 @@
-- Get the signal handler working
+- Get the signal handler working: DONE
 - Create an array of shared memory
 - Create a command interface.
 - Create a function to modify the shared memory.
